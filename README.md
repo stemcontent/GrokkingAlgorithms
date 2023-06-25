@@ -1,2 +1,4 @@
-# GrokkingAlgorithms
-This is where I put all of my coding answers to question in Grokking Algorithms Book
+# Grokking Algorithms 📖 
+This is where I put all of my coding answers to questions in Grokking Algorithms Book.
+
+Mostly in Java. 
